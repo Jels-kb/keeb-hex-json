@@ -1,2 +1,2 @@
 # keeb-hex-json
-QMK Hex/Bin files and VIA Jsons for flashing/sideloading keyboards
+QMK Hex/Bin files and VIA .JSONs for flashing/sideloading keyboards
